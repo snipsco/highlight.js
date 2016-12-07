@@ -41,5 +41,8 @@
     "should": "^9.0.2",
     "tiny-worker": "^1.1.1",
     "js-beautify": "^1.5.10"
+  },
+  "publishConfig": {
+    "registry": "https://npm-registry.corp.snips.net"
   }
 }
